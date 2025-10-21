@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkStatsTool", "NetworkStatsTool.csproj", "{45BE0983-C7F9-46FF-80C3-CF0BEE69D1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BE0983-C7F9-46FF-80C3-CF0BEE69D1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BE0983-C7F9-46FF-80C3-CF0BEE69D1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BE0983-C7F9-46FF-80C3-CF0BEE69D1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BE0983-C7F9-46FF-80C3-CF0BEE69D1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4E6BBC-7D43-4D2B-BE28-C6A37A1D42D8}
+	EndGlobalSection
+EndGlobal

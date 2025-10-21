@@ -1,0 +1,2 @@
+C:\Users\sroy9\Desktop\New folder (2)\Network Stats Tool C#\bin\Release\net8.0\win-x64\publish\NetworkStatsTool.pdb
+C:\Users\sroy9\Desktop\New folder (2)\Network Stats Tool C#\bin\Release\net8.0\win-x64\publish\NetworkStatsTool.exe
